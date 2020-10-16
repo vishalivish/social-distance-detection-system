@@ -1,6 +1,6 @@
 # social-distance-detection-system
 This social distancing detection tool detects whether people are keeping safe distance from each other.
-Programming language used : PYTHON
+# Programming language used : PYTHON
 # Working:
 1)Detect the humans in the frame with yolov4-tiny convolutional neural network.
 2)Calculate the distance between all the instances of humans detected in the frame.
