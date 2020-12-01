@@ -1,6 +1,5 @@
 # Social-distance-detection-system
 This social distancing detection tool detects whether people are keeping safe distance from each other.
-Programming language used : PYTHON
 # Requirements:
 We need to import certain python libraries like
 * numpy
